@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+.venv314/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Downloaded market data
+data/prices.parquet
